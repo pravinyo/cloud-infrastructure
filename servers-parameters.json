@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityProject2"
+    },
+    {
+        "ParameterKey": "LinuxInstanceImageId",
+        "ParameterValue": "ami-0fc20dd1da406780b"
+    },
+    {
+        "ParameterKey": "LinuxInstanceImageType",
+        "ParameterValue":"t3.small"
+    }
+]
