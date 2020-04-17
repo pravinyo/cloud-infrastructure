@@ -137,4 +137,4 @@ Outputs:
         Description: this is the endpoint to use for accessing the loadbanlancer
         Value: !Join [ "", [ 'http://', !GetAtt WebApploadBalancer.DNSName  ]]
         Export:
-          Name: !Sub ${EnvironmentName}-Pravin_Server
+          Name: !Sub ${EnvironmentName}-Pravin
